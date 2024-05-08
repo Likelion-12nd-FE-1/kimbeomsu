@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css2?family=Anybody&family=Aoboshi+One&family=Black+Han+Sans&family=Dokdo&family=Gugi&family=Jua&family=Noto+Serif+KR:wght@900&display=swap");
+
+.container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 4vw;
+  font-size: 1.5vw;
+  font-family: "Jua", sans-serif;
+}
+.links {
+  text-decoration: none;
+  color: black;
+  font-weight: bold;
+}
